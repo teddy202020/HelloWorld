@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Integer num01 = 100;
+        Double dnum01 = 100.99;
+
 
     }
 }

@@ -2,7 +2,7 @@
     <string name="app_name">HelloWorld</string>
     <string name="textview1">TextView</string>
     <string name="textview2">TextView</string>
-    <string name="textview5">TextView</string>
+    <string name="textview5">AAAAAAAAAA</string>
     <string name="textview4">测试使用数据4</string>
     <string name="button1">Button</string>
 </resources>
